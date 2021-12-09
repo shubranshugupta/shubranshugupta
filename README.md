@@ -1,7 +1,7 @@
-# ![Header](https://github.com/shubranshugupta/shubranshugupta/blob/main/images/Header.png)
+![Header](https://github.com/shubranshugupta/shubranshugupta/blob/main/images/Header.png)
 
 
-### Hi there 👋
+## Hello, folks!! 👋
 
 <!--
 **shubranshugupta/shubranshugupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
