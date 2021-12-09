@@ -6,7 +6,7 @@
 
 <p>I'm is Shubhranshu Gupta, a passionate about AI, Deep Learning. I am from India. I am also an open-source enthusiast and I love how collaboration and knowledge sharing happens through open-source.</p>
 
-### Find Me On:
+### Find Me On
 
 <!-- Actual text -->
 
