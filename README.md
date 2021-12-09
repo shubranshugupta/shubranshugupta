@@ -1,4 +1,4 @@
-# [!Header](https://github.com/shubranshugupta/shubranshugupta/blob/main/images/Header.png)
+# ![Header](https://github.com/shubranshugupta/shubranshugupta/blob/main/images/Header.png)
 
 
 ### Hi there 👋
