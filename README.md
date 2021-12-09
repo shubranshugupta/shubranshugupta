@@ -14,7 +14,7 @@
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://github.com/shubranshugupta/shubranshugupta/blob/main/images/linkedin_logo.png (linkedin icon without padding)
 
 <!-- Links to your social media accounts -->
 
