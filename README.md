@@ -12,13 +12,17 @@
 
 [![LinkedIn][1.2]][1]
 
+[![Kaggle][2.2]][2]
+
 <!-- Icons -->
 
-[1.2]: https://github.com/shubranshugupta/shubranshugupta/blob/main/images/linkedin_logo.png (linkedin icon without padding)
+[1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+[2.2]: https://img.shields.io/badge/_Kaggle_-20BEFF?style=flat&logo=Kaggle&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/shubhranshu-gupta-240201/
+[2]: https://www.kaggle.com/shubhranshugupta24
 
 
 
