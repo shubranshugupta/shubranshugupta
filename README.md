@@ -21,7 +21,7 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/shubhranshu-gupta-240201/
+[1]: https://www.linkedin.com/in/shubhranshu-gupta24/
 [2]: https://www.kaggle.com/shubhranshugupta24
 
 
