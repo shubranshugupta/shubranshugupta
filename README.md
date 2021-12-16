@@ -51,7 +51,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![](https://img.shields.io/badge/Tools-Podman-informational?style=flat&logo=podman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/AI_Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI_Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
