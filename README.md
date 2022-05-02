@@ -4,7 +4,7 @@
 
 <br>
 
-<p>I'm is <strong>Shubhranshu Gupta</strong>, a passionate about AI, Deep Learning. I am from India. I am also an open-source enthusiast and I love how collaboration and knowledge sharing happens through open-source.</p>
+<p>I'm is <strong>Shubhranshu Gupta</strong>, a passionate about AI, Deep Learning. I am from India. I am also an open-source enthusiast and I love how collaboration and knowledge sharing happens through open-source. I am a young, energetic, and geeky individual whose desire to learn is endless. Apart from technical knowledge, I like Theoretical Physics. Also, I like to play video games 🎮 and watch SciFi movies 🎬 in my leisure time.</p>
 
 ### 🌐 Social
 
