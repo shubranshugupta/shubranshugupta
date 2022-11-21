@@ -69,7 +69,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 
 <a href="https://github.com/shubranshugupta/Banking_Subscription_Predictor_with_deployment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=Banking_Subscription_Predictor_with_deployment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=password-saver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## ✍️ Random Quote
