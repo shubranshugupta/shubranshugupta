@@ -64,12 +64,12 @@ Apart from coding, I also maintain a blog - you can find my articles on
 </a>
 
 <a href="https://github.com/shubranshugupta/authentication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=Number-plate-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=authentication&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/shubranshugupta/Lung-Tumor-Segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=password-saver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=Lung-Tumor-Segmentation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## ✍️ Random Quote
