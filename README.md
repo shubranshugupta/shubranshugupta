@@ -63,12 +63,12 @@ Apart from coding, I also maintain a blog - you can find my articles on
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubranshugupta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shubhranshu's GitHub Stats" />
 </a>
 
-<a href="https://github.com/shubranshugupta/Number-plate-Recognition">
+<a href="https://github.com/shubranshugupta/authentication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=Number-plate-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/shubranshugupta/Banking_Subscription_Predictor_with_deployment">
+<a href="https://github.com/shubranshugupta/Lung-Tumor-Segmentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=password-saver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
