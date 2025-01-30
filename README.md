@@ -35,6 +35,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++_Lang-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C_Lang-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
@@ -49,6 +50,8 @@ Apart from coding, I also maintain a blog - you can find my articles on
 ![](https://img.shields.io/badge/AI_Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI_Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI_Tools-SkLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 ## 🏆 Github Trophies
 
