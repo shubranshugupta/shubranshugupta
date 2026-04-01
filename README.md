@@ -55,24 +55,24 @@ Apart from coding, I also maintain a blog - you can find my articles on
 
 ## 🏆 Github Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubranshugupta&no-frame=true&row=1&column=7&theme=discord&no-frame=false&no-bg=false&margin-w=10" alt="Thekrushna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=shubranshugupta&no-frame=true&row=1&column=7&theme=radical&no-frame=false&no-bg=false&margin-w=10%22" alt="Shubh Trophies" /></a> </p>
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/shubranshugupta/shubranshugupta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubranshugupta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubranshugupta&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/shubranshugupta/shubranshugupta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubranshugupta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shubhranshu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=shubranshugupta&show_icons=true&theme=radical" alt="Shubhranshu's GitHub Stats" />
 </a>
 
 <a href="https://github.com/shubranshugupta/authentication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=authentication&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shubranshugupta&repo=authentication&theme=radical" />
 </a>
 
 
-<a href="https://github.com/shubranshugupta/Lung-Tumor-Segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubranshugupta&repo=Lung-Tumor-Segmentation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/shubranshugupta/authentication">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shubranshugupta&repo=Lung-Tumor-Segmentation&theme=radical" />
 </a>
 
 ## ✍️ Random Quote
