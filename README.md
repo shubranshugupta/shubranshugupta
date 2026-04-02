@@ -71,7 +71,7 @@ Apart from coding, I also maintain a blog - you can find my articles on
 </a>
 
 
-<a href="https://github.com/shubranshugupta/authentication">
+<a href="https://github.com/shubranshugupta/Lung-Tumor-Segmentation">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shubranshugupta&repo=Lung-Tumor-Segmentation&theme=radical" />
 </a>
 
